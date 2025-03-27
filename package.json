@@ -1,0 +1,25 @@
+{
+  "name": "aplist",
+  "version": "1.0.0",
+  "description": "api for lists ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaeldev01/aplist.git"
+  },
+  "author": "raphaeldev01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaeldev01/aplist/issues"
+  },
+  "homepage": "https://github.com/raphaeldev01/aplist#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^11.5.0"
+  }
+}
