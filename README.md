@@ -1,7 +1,5 @@
 # APLIST -  API de Listas para Jogos
 
-<br />
-
 ## URL
 
 URL para requisições:
@@ -9,6 +7,7 @@ URL para requisições:
 https://aplist.vercel.app/
 ```
 
+<br />
 
 ## Descrição
 
