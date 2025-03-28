@@ -2,6 +2,14 @@
 
 <br />
 
+## URL
+
+URL para requisições:
+```
+https://aplist.vercel.app/
+```
+
+
 ## Descrição
 
 Esta API fornece listas de palavras e informações categorizadas que podem ser utilizadas em jogos como Forca, Trivia, Palavras Cruzadas e outros. As listas incluem categorias como animais, frutas, cidades, filmes e muito mais.
@@ -14,7 +22,7 @@ Esta API fornece listas de palavras e informações categorizadas que podem ser 
 
 ### 1. Obter todas as categorias
 
-**GET** `/{idioma}/types`
+**GET** `/{idioma}/get/types`
 
 *Resposta:*
 
